@@ -85,7 +85,7 @@ ln -s ~/phoenix/phoenix.js ~/.phoenix.js
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE VERSION 2. See [license](LICENSE.md).
+GNU GENERAL PUBLIC LICENSE VERSION 2. See [license](LICENSE).
 
 # 中文版本
 
@@ -173,4 +173,4 @@ ln -s ~/phoenix/phoenix.js ~/.phoenix.js
 
 ## 开源协议
 
-GNU GENERAL PUBLIC LICENSE VERSION 2. 见 [license](LICENSE.md).
+GNU GENERAL PUBLIC LICENSE VERSION 2. 见 [license](LICENSE).
